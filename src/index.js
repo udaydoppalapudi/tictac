@@ -42,6 +42,7 @@ function drawWinningLine({
     }, 50);
     setTimeout(() => {
         console.log(winner);
+        document.querySelector('.toast-body').innerHTML = `<strong class="text-uppercase">${winner}</strong>`;
         $('.toast').toast('show');
     }, 50);
 }
