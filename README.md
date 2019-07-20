@@ -15,9 +15,9 @@ yarn build
 to bundle your application
 
 
-**TO VIEW THE APPLICATION - Please follow the below steps
+**To View The Application - Please follow the below steps**
 
-**1. To begin with, we need to install all the node dependencies.
+**1. To begin with, we need to install all the node dependencies.**
 
 ```
 npm install
