@@ -1,4 +1,4 @@
-# 🚀 Welcome to your new awesome project!
+# 🚀 Welcome to TicTacToe Demonstration!
 
 This project has been created using **webpack scaffold**, you can now run
 
