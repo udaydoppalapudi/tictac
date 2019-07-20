@@ -25,7 +25,7 @@ npm install
 This allows us to use webpack features as we mentioned webpack as dependency in project.
 
 
-**2. Once the npm module installation process completes. You can directly use - **
+**2. Once the npm module installation process completes. You can directly use-**
 
 ```
 npm start
