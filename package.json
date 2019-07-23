@@ -8,9 +8,6 @@
     "start": "webpack-dev-server",
     "heroku-postbuild": "webpack -p"
   },
-  "engines": {
-    "node": "10.x"
-  },
   "keywords": [
     "TicTacToe"
   ],
