@@ -39,7 +39,8 @@ module.exports = {
 	plugins: [new webpack.ProgressPlugin(), new HtmlWebpackPlugin({
 		title: 'Tic Tac Toe',
 		filename: 'index.html',
-		template: './index.html'
+		template: 'index.html',
+		inject: true
 	})],
 
 	module: {
